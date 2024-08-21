@@ -1,1 +1,17 @@
-test
+[
+    {
+        "username": "user1",
+        "reported_behavior": "Inappropriate language",
+        "age": 25
+    },
+    {
+        "username": "user2",
+        "reported_behavior": "Spamming",
+        "age": 30
+    },
+    {
+        "username": "user3",
+        "reported_behavior": "Trolling",
+        "age": 20
+    }
+]
