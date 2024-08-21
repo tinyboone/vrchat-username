@@ -1,7 +1,10 @@
 [
     {
         "username": "Ｌｏｖｅｌｉｅｓｔ ｂｏｏｎｅ",
-        "age": 17,
-        "reported_behavior": "meow"
+        "report": "test"
+    },
+    {
+        "username": "ɢʟօօʍʏʏ",
+        "report": "user test"
     }
 ]
